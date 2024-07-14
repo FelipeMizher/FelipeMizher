@@ -39,7 +39,11 @@
 ## Sobre Mim:
 
 <div align="justify">
-#####
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender coisas novas e enfrentar desafios interessantes. Estudo Ciência da Computação na PUC Minas, uma jornada que me conduziu a mergulhar no vasto universo da programação. Atualmente, utilizo as linguagens Java e C nos meus estudos, desenvolvendo habilidades e conhecimentos essenciais para o meu crescimento profissional.
+
+Minha trajetória na área da tecnologia começou ainda na infância, jogando com amigos. Esses momentos de diversão despertaram em mim um profundo interesse pela tecnologia. Desde então, ela se tornou uma parte essencial do meu dia a dia, seja para estudos, diversão ou diversas outras atividades. Através dessa constante interação, desenvolvi o interesse em entrar na área da tecnologia na faculdade e aprender mais sobre este mundo.
+
+Buscando aprender em diferentes áreas e participando de projetos, estou sempre pronto para aplicar o que aprendo em sala de aula em situações práticas. A combinação do conhecimento teórico adquirido na universidade com a prática diária permite-me enfrentar e resolver problemas complexos, preparando-me para desafios futuros no mercado de trabalho.
 </div>
 
 -----
