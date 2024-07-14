@@ -13,15 +13,15 @@
 <tr>
 <td><a href="https://github.com/FelipeMizher" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/github5.png" width="55px" height="55px"/></a>
 </td>
-<td><a href="https://replit.com/@#" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/replit2.png" width="55px" height="55px"/></a>
+<td><a href="https://replit.com/@feliperivetti" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/replit2.png" width="55px" height="55px"/></a>
 </td>
 <td><a href="mailto:feliperivettimizher@gmail.com" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/gmail3.png" width="50px" height="42px"/></a>
 </td>
 <td><a href="https://www.instagram.com/felipemizher/" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/insta2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/#/" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/felipemizher/" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/#" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/discord2.png" width="50px" height="42px"/></a>
+<td><a href="https://discordapp.com/users/rivetti9536" target="_blank"><img src="https://github.com/FelipeMizher/FelipeMizher/blob/main/img/discord2.png" width="50px" height="42px"/></a>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@
 <div> 
 <a href="https://www.instagram.com/FelipeMizher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:feliperivettimizher@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/#/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipemizher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div> 
 
 -----
@@ -75,17 +75,19 @@
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/spotify.gif"/> Felipe's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=#" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31noh24we25skoxiij2vdwjxrjay">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31noh24we25skoxiij2vdwjxrjay" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
   
-<!-- <div>
-<a href="https://www.last.fm/pt/user/#" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=#&width=400"/></a>
-</div> -->
+<div>
+<a href="https://www.last.fm/pt/user/felipemizher" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=felipemizher&width=400"/></a>
+</div>
 
 <div>
-<img alt="Spotify" width="200px" height="270px" src="#"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="#&count=10"/>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31noh24we25skoxiij2vdwjxrjay&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31noh24we25skoxiij2vdwjxrjay&count=10"/>
 </div>
 </div>
 
